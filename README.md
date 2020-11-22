@@ -1,2 +1,4 @@
 # eyric.github.io
-简历模板 网页+PPT 适合技术类
+个人博客 & 简历
+
+blog: http://blog.wein.tech
